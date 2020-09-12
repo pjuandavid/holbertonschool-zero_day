@@ -1,1 +1,1 @@
-Git manual
+Hot fix
